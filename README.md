@@ -14,7 +14,7 @@ Para configurar este proyecto en tu entorno local, sigue los pasos a continuaci�
    cd front-end-test
    ```
 
-2. Asegúrate de Java y Maven instalados, lo cual se puede comprobar con los comandos `java -version` y `mvn -v`.
+2. Asegúrate tener de Java y Maven instalados, lo cual se puede comprobar con los comandos `java -version` y `mvn -v`.
 
 3. Ejecuta en la raíz del proyecto el comando `mvn spring-boot:run`.
 
